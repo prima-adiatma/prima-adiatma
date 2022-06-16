@@ -3,9 +3,6 @@
 ## About Me
 - 😌 I became a programmer by destiny 
 - 🌱 I’m currently learning Java & Android
-<!-- - 👯 I’m looking to collaborate -->
-<!-- - 🥅 2022 Goals:  -->
-<!-- - ⚡ Fun fact: -->
 
 ## Connect with me:
 
@@ -13,9 +10,8 @@
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://www.instagram.com/prima_adiatma/">
-
+  <img align="left" width="40px" src="./img/instagram.svg" />
 </a>
-
 
 <br/>
 <br/>
@@ -24,3 +20,8 @@
 
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" width="40px"  style="background:#2a4f6c" src="./img/github.svg" />
+          
+
+          
+          
