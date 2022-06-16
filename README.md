@@ -6,10 +6,10 @@
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/primaadiatma90/">
+<a href="https://www.linkedin.com/in/primaadiatma90/" target="_blank">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://www.instagram.com/prima_adiatma/">
+<a href="https://www.instagram.com/prima_adiatma/" target="_blank">
   <img align="left" width="40px" src="./img/instagram.svg" />
 </a>
 
