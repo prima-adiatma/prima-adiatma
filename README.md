@@ -1,8 +1,9 @@
 # Hi there, Nice to meet you!
 
 ## About Me
-- 😌 I became a programmer by destiny 
+- 😍 I became a programmer by destiny 
 - 🌱 I’m currently learning Java & Android
+- 🥅 Goal: Learn more about Android & Web using Java
 
 ## Connect with me:
 
